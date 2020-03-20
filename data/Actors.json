@@ -1,0 +1,13 @@
+[
+null,
+{"id":1,"battlerName":"caza","characterIndex":0,"characterName":"cazza","classId":1,"equips":[1,0,0,0,0],"faceIndex":0,"faceName":"final","traits":[],"initialLevel":1,"maxLevel":99,"name":"rarca","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"jhonathan","characterIndex":0,"characterName":"jhonathan","classId":2,"equips":[2,1,2,3,0],"faceIndex":0,"faceName":"jhonathan","traits":[],"initialLevel":1,"maxLevel":99,"name":"jhonathan","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"343","characterIndex":0,"characterName":"2","classId":5,"equips":[3,0,2,3,4],"faceIndex":0,"faceName":"2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Marsha","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"Actor1_2","characterIndex":1,"characterName":"Actor1","classId":4,"equips":[4,0,2,3,4],"faceIndex":1,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Lucius","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":6,"characterName":"Vehicle","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":6,"battlerName":"7","characterIndex":0,"characterName":"6","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"1","traits":[],"initialLevel":1,"maxLevel":99,"name":"ricardo","nickname":"","note":"","profile":""},
+{"id":7,"battlerName":"555","characterIndex":0,"characterName":"4","classId":5,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"3","traits":[],"initialLevel":1,"maxLevel":99,"name":"leonardo","nickname":"","note":"","profile":""},
+{"id":8,"battlerName":"josep2","characterIndex":0,"characterName":"josep","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"josep","traits":[],"initialLevel":1,"maxLevel":99,"name":"josep","nickname":"","note":"","profile":""},
+{"id":9,"battlerName":"super jospe","characterIndex":0,"characterName":"super josep","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"super josep","traits":[],"initialLevel":1,"maxLevel":99,"name":"super josep","nickname":"","note":"","profile":""},
+{"id":10,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
